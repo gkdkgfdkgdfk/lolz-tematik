@@ -2,4 +2,6 @@
 Измените в config.json на нужные значения (их можно взять отсюда - https://bot.sannysoft.com/) 
 Где взять куки? -На лолзе жмем F12 и перезагружаем страницу, заходим в кладку "сеть" и выбираем запрос "contests", опускаемся до пункта "заголовки запроса" и копируем значение "cookie"  
 # Запуск  
-Пишем в консоль pip3 install -r .\requirements.txt и python main.py
+Пишем в консоль  
+pip3 install -r .\requirements.txt  
+python main.py  
