@@ -1,0 +1,12 @@
+{
+    "user-agent": "",
+    "cookies": "",
+    "chrome_dir": "",
+
+    "webgl": {
+        "vendor": "",
+        "renderer": "",
+        "platform": "win64",
+        "language": ["ru-RU", "ru"]
+    }
+}
